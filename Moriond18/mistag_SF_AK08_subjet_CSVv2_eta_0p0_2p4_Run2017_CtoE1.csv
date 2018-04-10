@@ -1,0 +1,10 @@
+OperatingPoint, measurementType, sysType, jetFlavor, etaMin, etaMax, ptMin, ptMax, discrMin, discrMax, formula 
+0, ToPreciseLater, central, 2, 0, 2.4, 20, 1000, 0, 1, "1.05547+0.000146772*x" 
+0, ToPreciseLater, down, 2, 0, 2.4, 20, 1000, 0, 1, "0.99152+0.000102397*x" 
+0, ToPreciseLater, up, 2, 0, 2.4, 20, 1000, 0, 1, "1.11941+0.000191147*x" 
+1, ToPreciseLater, central, 2, 0, 2.4, 20, 1000, 0, 1, "1.20425+0.000127477*x" 
+1, ToPreciseLater, down, 2, 0, 2.4, 20, 1000, 0, 1, "0.982994+0.000185795*x" 
+1, ToPreciseLater, up, 2, 0, 2.4, 20, 1000, 0, 1, "1.4255+6.91602e-05*x" 
+2, ToPreciseLater, central, 2, 0, 2.4, 20, 1000, 0, 1, "1.28505-0.000114635*x" 
+2, ToPreciseLater, down, 2, 0, 2.4, 20, 1000, 0, 1, "0.937602+2.32626e-05*x" 
+2, ToPreciseLater, up, 2, 0, 2.4, 20, 1000, 0, 1, "1.63249-0.000252532*x" 
